@@ -1,6 +1,6 @@
-# WTF CloseSource
+# WTF Closed Source
 
-Web3不开源（Close source）项目汇总，请大家一起抵制，让Web3更加开源、安全。
+Web3不开源（closed source）项目汇总，请大家一起抵制，让Web3更加开源、安全。
 
 > 0xAA开源倡议： 呼吁用户抵制一切合约没有开源的项目，不与它们交互。
 科学家/黑客可以通过反编译，大致了解函数逻辑，发现漏洞并攻击，例如这次的Transit Swap被盗。
